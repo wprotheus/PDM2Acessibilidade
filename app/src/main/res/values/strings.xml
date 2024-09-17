@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PDM2Acessibilidade</string>
+    <string name="txt_titulo">ACESSIBILIDADE\n E OUTROS</string>
+    <string name="btn_home">home</string>
+    <string name="btn_resumo">resumo</string>
+    <string name="btn_a11y">a11y</string>
+    <string name="btn_zap">whatsapp</string>
+    <string name="btn_enviar">ENVIAR</string>
+    <string name="txt_logo">Logomarca do IFTO</string>
+    <string name="txt_desc_logo">Recorte do logo Olimpus</string>
+    <string name="img_teste">ally</string>
+</resources>
